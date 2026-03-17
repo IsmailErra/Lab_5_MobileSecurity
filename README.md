@@ -51,7 +51,6 @@ L’un de ces répertoires contient le fichier **libfoo.so**, qui correspond à 
 Cette étape permet d’isoler le binaire natif à examiner plus en détail.
 
 ![Dossier de l’APK](screenshots/apk_folder.png)
-![Dossier lib](screenshots/lib_folder.png)
 ![Fichier libfoo.so](screenshots/libfoo_file.png)
 
 ---
