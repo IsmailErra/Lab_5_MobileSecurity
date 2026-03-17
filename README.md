@@ -39,7 +39,6 @@ La présence de l’instruction `System.loadLibrary("foo")` confirme le chargeme
 La partie décisive du mécanisme est donc déplacée vers un fichier `.so`.
 
 ![Classe CodeCheck](screenshots/jadx_codecheck.png)
-![Chargement de la bibliothèque native](screenshots/jadx_loadlibrary.png)
 
 ---
 
