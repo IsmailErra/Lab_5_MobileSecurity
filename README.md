@@ -13,7 +13,7 @@ L’étude s’appuie sur une lecture progressive du code Java, puis sur l’exa
 Au démarrage, l’application affiche une interface très simple composée d’un champ de saisie et d’un bouton de validation.  
 L’utilisateur est invité à fournir une chaîne de caractères censée correspondre à une valeur précise.
 
-**Capture à insérer :** `screenshots/app_start.png`
+ `screenshots/app_start.png`
 
 ---
 
